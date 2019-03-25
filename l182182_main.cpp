@@ -2,6 +2,12 @@
 
 /*
 Following is the program that shows how to use the class Date
+Dear Sir,
+There are some minor changes in the main driver code but these are just endl in cout statements just to get a clear and understandable
+output on the console. Also I changed the name of the object declared at the end because an object was declared before with same name as
+"d1" so I changed it to "d4". The rest is same and  working properly.
+
+
 */
 
 int main()
